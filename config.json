@@ -2,7 +2,7 @@
 	"log": {
 		"access": "/dev/null",
 		"error": "/dev/null",
-		"loglevel": "none"
+		"loglevel": "warning"
 	},
 	"inbounds": [{
 			"port": 10000,
